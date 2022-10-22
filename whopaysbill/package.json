@@ -8,8 +8,13 @@
     "test": "jest"
   },
   "dependencies": {
+<<<<<<< HEAD
     "expo": "~46.0.16",
     "expo-splash-screen": "~0.8.0",
+=======
+    "expo": "~40.0.0",
+    "expo-splash-screen": "~0.16.2",
+>>>>>>> 55ba159e7163e36a5a9c3ab2b9e40b3d990243c5
     "expo-status-bar": "~1.0.3",
     "expo-updates": "~0.14.6",
     "formik": "^2.2.6",
